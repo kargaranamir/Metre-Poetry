@@ -1,76 +1,70 @@
-We provide some poems in Persian as examples, along with their respective meter patterns. Now, given the new poem, determine its meter.
+We provide some couplet poems in Persian as examples, along with their respective meter patterns. Now, given the new poem, determine its meter.
+
 
 Example 1
-Persian Verses: مرا بسود و فرو ریخت هر چه دندان بود <> نبود دندان، لا بل چراغ تابان بود
+Persian Couplet: مرا بسود و فرو ریخت هر چه دندان بود <> نبود دندان، لا بل چراغ تابان بود
 Meter Latin: ˘¯˘¯|˘˘¯¯|˘¯˘¯|˘˘¯
 Meter Persian: مفاعلن|فعلاتن|مفاعلن|فعلن
 
 
 Example 2
-Persian Verses: مرا بسود و فرو ریخت هر چه دندان بود <> نبود دندان، لا بل چراغ تابان بود
-Meter Latin: ˘¯˘¯|˘˘¯¯|˘¯˘¯|¯¯
-Meter Persian: مفاعلن|فعلاتن|مفاعلن|فعْلن
-
-
-Example 3
-Persian Verses: اگر تندبادی براید ز کنج <> بخاک افگند نارسیده ترنج
+Persian Couplet: اگر تندبادی براید ز کنج <> بخاک افگند نارسیده ترنج
 Meter Latin: ˘¯¯|˘¯¯|˘¯¯|˘¯
 Meter Persian: فعولن|فعولن|فعولن|فعل
 
 
-Example 4
-Persian Verses: چو خواهد بود روز برف و باران <> پدید آید نشان از بامدادان
+Example 3
+Persian Couplet: چو خواهد بود روز برف و باران <> پدید آید نشان از بامدادان
 Meter Latin: ˘¯¯¯|˘¯¯¯|˘¯¯
 Meter Persian: مفاعیلن|مفاعیلن|فعولن
 
 
-Example 5
-Persian Verses: اَلا یا اَیُّهَا السّاقی اَدِرْ کَأسَاً و ناوِلْها <> که عشق آسان نِمود اوّل ولی افتاد مشکل‌ها
+Example 4
+Persian Couplet: اَلا یا اَیُّهَا السّاقی اَدِرْ کَأسَاً و ناوِلْها <> که عشق آسان نِمود اوّل ولی افتاد مشکل‌ها
 Meter Latin: ˘¯¯¯|˘¯¯¯|˘¯¯¯|˘¯¯¯
 Meter Persian: مفاعیلن|مفاعیلن|مفاعیلن|مفاعیلن
 
 
-Example 6
-Persian Verses: شه به ناز و نشاط شد مشغول <> کز ده و گیر گشته بود ملول
+Example 5
+Persian Couplet: شه به ناز و نشاط شد مشغول <> کز ده و گیر گشته بود ملول
 Meter Latin: ¯˘¯¯|˘¯˘¯|˘˘¯
 Meter Persian: فاعلاتن|مفاعلن|فعلن
 
 
-Example 7
-Persian Verses: بشنو این نی چون شکایت می‌کند <> از جدایی‌ها حکایت می‌کند
+Example 6
+Persian Couplet: بشنو این نی چون شکایت می‌کند <> از جدایی‌ها حکایت می‌کند
 Meter Latin: ¯˘¯¯|¯˘¯¯|¯˘¯
 Meter Persian: فاعلاتن|فاعلاتن|فاعلن
 
 
-Example 8
-Persian Verses: تا نسوزد، عود در مجمر ندارد آدمی <> تا نگرید، آب در گوهر ندارد آدمی
+Example 7
+Persian Couplet: تا نسوزد، عود در مجمر ندارد آدمی <> تا نگرید، آب در گوهر ندارد آدمی
 Meter Latin: ¯˘¯¯|¯˘¯¯|¯˘¯¯|¯˘¯
 Meter Persian: فاعلاتن|فاعلاتن|فاعلاتن|فاعلن
 
 
-Example 9
-Persian Verses: هر روز که صبح بردمیدی <> یوسف رخ مشرقی رسیدی
+Example 8
+Persian Couplet: هر روز که صبح بردمیدی <> یوسف رخ مشرقی رسیدی
 Meter Latin: ¯¯˘|˘¯˘¯|˘¯¯
 Meter Persian: مفعول|مفاعلن|فعولن
 
 
-Example 10
-Persian Verses: دردیست اجل که نیست درمان او را <> بر شاه و وزیر هست فرمان او را
+Example 9
+Persian Couplet: دردیست اجل که نیست درمان او را <> بر شاه و وزیر هست فرمان او را
 Meter Latin: ¯¯˘|˘¯˘¯|˘¯¯¯|˜
 Meter Persian: مفعول|مفاعلن|مفاعیلن|فع
 
 
-Example 11
-Persian Verses: تا کی به تمنای وصال تو یگانه <> اشکم شود از هر مژه چون سیل روانه
+Example 10
+Persian Couplet: تا کی به تمنای وصال تو یگانه <> اشکم شود از هر مژه چون سیل روانه
 Meter Latin: ¯¯˘|˘¯¯˘|˘¯¯˘|˘¯¯
 Meter Persian: مفعول|مفاعیل|مفاعیل|فعولن
 
 
-Example 12
-Persian Verses: رندان سلامت می‌کنند جان را غلامت می‌کنند <> مستی ز جامت می‌کنند مستان سلامت می‌کنند
+Example 11
+Persian Couplet: رندان سلامت می‌کنند جان را غلامت می‌کنند <> مستی ز جامت می‌کنند مستان سلامت می‌کنند
 Meter Latin: ¯¯˘¯|¯¯˘¯|¯¯˘¯|¯¯˘¯
 Meter Persian: مستفعلن|مستفعلن|مستفعلن|مستفعلن
 
-Input
-Persian Verses: برین کار یزدان ترا راز نیست <> اگر جانت با دیو انباز نیست
+
 
