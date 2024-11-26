@@ -1,4 +1,4 @@
-We provide some couplet poems in Persian as examples, along with their respective meter patterns. Now, given the new poem, determine its meter.
+We provide some couplet poems in Persian as examples, along with their respective meter patterns. Now, given the new input poem, determine its meter.
 
 
 Example 1
@@ -66,5 +66,8 @@ Persian Couplet: رندان سلامت می‌کنند جان را غلامت م
 Meter Latin: ¯¯˘¯|¯¯˘¯|¯¯˘¯|¯¯˘¯
 Meter Persian: مستفعلن|مستفعلن|مستفعلن|مستفعلن
 
+
+Input
+Persian Verses: برین کار یزدان ترا راز نیست <> اگر جانت با دیو انباز نیست
 
 
